@@ -70,6 +70,7 @@ class _HomePageState extends State<HomePage> {
                               content: Text("Únete a un club con otras personas"),
                             ),
                           );
+                          
                       }, 
                     ),
                   ),
