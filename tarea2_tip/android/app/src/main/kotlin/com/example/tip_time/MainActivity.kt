@@ -1,4 +1,4 @@
-package com.example.tarea2_tip
+package com.example.tip_time
 
 import io.flutter.embedding.android.FlutterActivity
 
